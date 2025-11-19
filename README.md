@@ -1,6 +1,6 @@
 # Sidebar Tooltip Transitions
 
-A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image.
+A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image..
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/12/Tooltip_feat.jpg)
 
